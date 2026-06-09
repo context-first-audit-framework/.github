@@ -1,12 +1,17 @@
 # Context-First Audit Framework
 
-This namespace is reserved for the Context-First Audit Framework by IndexMesh.
+This namespace is reserved by IndexMesh for the Context-First Audit Framework.
 
-CFAF is the methodology behind auditing pages from declared intent, audience, purpose, and competitive context outward.
+The Context-First Audit Framework is planned as an IndexMesh methodology/module for auditing pages and content from declared intent, audience, purpose, competitive context, and evidence before tactical SEO, AEO, GenXEO, or content recommendations are made.
 
-Primary development and documentation live under:
+## Current Status
 
-- [IndexMesh](https://github.com/indexmesh)
-- [indexmesh/platform](https://github.com/indexmesh/platform)
+This organization is a reserved namespace. Active development and canonical documentation live under the primary IndexMesh organization.
+
+## Primary Links
+
+- [IndexMesh organization](https://github.com/indexmesh)
+- [IndexMesh docs](https://github.com/indexmesh/docs)
+- [IndexMesh platform](https://github.com/indexmesh/platform)
 
 Built by [Xavier Emerson](https://github.com/agentx4u).
